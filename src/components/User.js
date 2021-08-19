@@ -12,7 +12,7 @@ const User = () => {
     </section>
   );
 };
-
+//
 const Wrapper = styled.div`
   padding-top: 2rem;
   display: grid;
